@@ -1,1 +1,9 @@
 # pavo
+- devtools
+    - client-devtool-components
+    - client-devtool
+    - devtools-components
+    - gw
+    - interperter
+    - remote-devtool
+- devtools-frontend
